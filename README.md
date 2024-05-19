@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I am a passionate and experienced full-stack JavaS
 
 | Front-End | Back-End |
 | --------- | -------- |
-| - Vue.js (Vue2 & Vue3) | - Node.js |
-| - React | - NestJS |
-| - Pinia | - Express.js |
+|  Vue.js (Vue2 & Vue3) | Node.js |
+|  React | NestJS |
+|  Pinia | Express.js |
 
 ### Databases:
 
