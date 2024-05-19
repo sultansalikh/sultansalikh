@@ -1,37 +1,45 @@
 # 👋 Hi, I'm Sultan Salikh
 
-Welcome to my GitHub profile! I am a passionate and experienced full-stack JavaScript developer, adept in both front-end and back-end technologies.
+Welcome to my GitHub profile!
+
+I am a passionate and experienced software engineer specializing in full-stack JavaScript development. With a background in both front-end and back-end technologies, I thrive on building robust, scalable, and efficient applications.
 
 ## 🛠️ Technologies & Tools
 
-| Front-End | Back-End |
-| --------- | -------- |
-|  Vue.js (Vue2 & Vue3) | Node.js |
-|  React | NestJS |
-|  Pinia | Express.js |
+### Front-End:
+
+- **Vue.js** (Vue2 & Vue3)
+- **React**
+- **Pinia**
+
+### Back-End:
+
+- **Node.js**
+- **NestJS**
+- **Express.js**
 
 ### Databases:
 
-- Oracle
-- PostgreSQL
-- SQL
-- Knex.js
+- **Oracle**
+- **PostgreSQL**
+- **SQL**
+- **Knex.js**
 
 ### DevOps:
 
-- Docker
-- PM2
-- GitLab CI/CD Pipeline
+- **Docker**
+- **PM2**
+- **GitLab CI/CD Pipeline**
 
 ### Others:
 
-- Socket.IO
-- Kafka
-- GraphQL
+- **Socket.IO**
+- **Kafka**
+- **GraphQL**
 
 ## 🌱 Currently Learning
 
-I'm continuously expanding my skill set, diving deeper into advanced topics and new technologies to stay at the forefront of the industry.
+I am always eager to expand my skill set and am currently diving deeper into advanced topics and new technologies to stay at the forefront of the industry.
 
 ---
 
